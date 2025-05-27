@@ -1,0 +1,37 @@
+Week 1 Journal  
+
+Thursday, November 14, 2024.
+
+We began setting up the security camera using a Raspberry Pi 4.  
+
+Steps Taken:  
+
+Setting Up Raspberry Pi 4:
+- Connected the Raspberry Pi 4 to a monitor.  
+- Opened the terminal.  
+
+Installing Motion:
+- Updated the system: `sudo apt update`.  
+- Installed Motion: `sudo apt install motion`.  
+
+Configuring Motion:
+- Edited the configuration file: `sudo nano /etc/motion/motion.conf`.  
+  - Changed `daemon off` to `daemon on` to run Motion as a background service (a "daemon" is a background process running without user interaction).  
+  - Adjusted the framerate from 15 to 30 for better video quality.  
+  - Set `webcontrol_localhost` to `off` to enable remote access to the web control interface.  
+  - Set `stream_localhost` to `off` to allow external devices to access the live stream.  
+  - Configured the threshold setting to adjust motion detection sensitivity.  
+
+Enabling the Motion Service:
+- Enabled Motion to start at boot: `sudo systemctl enable motion`.  
+- Started the Motion service: `sudo systemctl start motion`.  
+
+Setting Up Motion Detection Actions:
+- Created a `motion_events` directory to save images and videos.  
+- We installed FTP to enable the capture of images on a remote FTP server.  
+- Modified the Motion configuration again with: `sudo nano /etc/motion/motion.conf`.  
+
+Challenges Faced:
+We encountered issues setting up the FTP server. we sought help from ChatGPT and YouTube, but we are still having issues with this problem. we will include the link to YouTube when we find the solution.
+
+This week we were focused on initial setup and configuration, laying the groundwork for a functional surveillance system.  

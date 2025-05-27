@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\santh\\Documents\\GitHub\\Library-Management\\MLMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEED8EB3-BC94-4568-9762-7B1BD3806D80}|MLMS\\MLMS.csproj|c:\\users\\santh\\documents\\github\\library-management\\mlms\\mlms\\addmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEED8EB3-BC94-4568-9762-7B1BD3806D80}|MLMS\\MLMS.csproj|solutionrelative:mlms\\addmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEED8EB3-BC94-4568-9762-7B1BD3806D80}|MLMS\\MLMS.csproj|C:\\Users\\santh\\Documents\\GitHub\\Library-Management\\MLMS\\mlms\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEED8EB3-BC94-4568-9762-7B1BD3806D80}|MLMS\\MLMS.csproj|solutionrelative:mlms\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEED8EB3-BC94-4568-9762-7B1BD3806D80}|MLMS\\MLMS.csproj|C:\\Users\\santh\\Documents\\GitHub\\Library-Management\\MLMS\\mlms\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEED8EB3-BC94-4568-9762-7B1BD3806D80}|MLMS\\MLMS.csproj|solutionrelative:mlms\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEED8EB3-BC94-4568-9762-7B1BD3806D80}|MLMS\\MLMS.csproj|C:\\Users\\santh\\Documents\\GitHub\\Library-Management\\MLMS\\mlms\\reservebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEED8EB3-BC94-4568-9762-7B1BD3806D80}|MLMS\\MLMS.csproj|solutionrelative:mlms\\reservebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEED8EB3-BC94-4568-9762-7B1BD3806D80}|MLMS\\MLMS.csproj|C:\\Users\\santh\\Documents\\GitHub\\Library-Management\\MLMS\\mlms\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEED8EB3-BC94-4568-9762-7B1BD3806D80}|MLMS\\MLMS.csproj|solutionrelative:mlms\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEED8EB3-BC94-4568-9762-7B1BD3806D80}|MLMS\\MLMS.csproj|C:\\Users\\santh\\Documents\\GitHub\\Library-Management\\MLMS\\mlms\\payment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEED8EB3-BC94-4568-9762-7B1BD3806D80}|MLMS\\MLMS.csproj|solutionrelative:mlms\\payment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEED8EB3-BC94-4568-9762-7B1BD3806D80}|MLMS\\MLMS.csproj|C:\\Users\\santh\\Documents\\GitHub\\Library-Management\\MLMS\\mlms\\maindashbboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEED8EB3-BC94-4568-9762-7B1BD3806D80}|MLMS\\MLMS.csproj|solutionrelative:mlms\\maindashbboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Payment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\santh\\Documents\\GitHub\\Library-Management\\MLMS\\MLMS\\Payment.cs",
+              "RelativeDocumentMoniker": "MLMS\\Payment.cs",
+              "ToolTip": "C:\\Users\\santh\\Documents\\GitHub\\Library-Management\\MLMS\\MLMS\\Payment.cs [Design]",
+              "RelativeToolTip": "MLMS\\Payment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T01:17:36.184Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReserveBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\santh\\Documents\\GitHub\\Library-Management\\MLMS\\MLMS\\ReserveBook.cs",
+              "RelativeDocumentMoniker": "MLMS\\ReserveBook.cs",
+              "ToolTip": "C:\\Users\\santh\\Documents\\GitHub\\Library-Management\\MLMS\\MLMS\\ReserveBook.cs [Design]",
+              "RelativeToolTip": "MLMS\\ReserveBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T01:20:38.856Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\santh\\Documents\\GitHub\\Library-Management\\MLMS\\MLMS\\AddBook.cs",
+              "RelativeDocumentMoniker": "MLMS\\AddBook.cs",
+              "ToolTip": "C:\\Users\\santh\\Documents\\GitHub\\Library-Management\\MLMS\\MLMS\\AddBook.cs [Design]",
+              "RelativeToolTip": "MLMS\\AddBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T01:25:33.609Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddMember.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\santh\\Documents\\GitHub\\Library-Management\\MLMS\\MLMS\\AddMember.cs",
+              "RelativeDocumentMoniker": "MLMS\\AddMember.cs",
+              "ToolTip": "C:\\Users\\santh\\Documents\\GitHub\\Library-Management\\MLMS\\MLMS\\AddMember.cs [Design]",
+              "RelativeToolTip": "MLMS\\AddMember.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T01:24:52.652Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\santh\\Documents\\GitHub\\Library-Management\\MLMS\\MLMS\\UserLogin.cs",
+              "RelativeDocumentMoniker": "MLMS\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\santh\\Documents\\GitHub\\Library-Management\\MLMS\\MLMS\\UserLogin.cs [Design]",
+              "RelativeToolTip": "MLMS\\UserLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T01:29:55.184Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Payment.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\santh\\Documents\\GitHub\\Library-Management\\MLMS\\MLMS\\Payment.Designer.cs",
+              "RelativeDocumentMoniker": "MLMS\\Payment.Designer.cs",
+              "ToolTip": "C:\\Users\\santh\\Documents\\GitHub\\Library-Management\\MLMS\\MLMS\\Payment.Designer.cs",
+              "RelativeToolTip": "MLMS\\Payment.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T01:29:22.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainDashbboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\santh\\Documents\\GitHub\\Library-Management\\MLMS\\MLMS\\MainDashbboard.cs",
+              "RelativeDocumentMoniker": "MLMS\\MainDashbboard.cs",
+              "ToolTip": "C:\\Users\\santh\\Documents\\GitHub\\Library-Management\\MLMS\\MLMS\\MainDashbboard.cs [Design]",
+              "RelativeToolTip": "MLMS\\MainDashbboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T01:17:10.059Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
